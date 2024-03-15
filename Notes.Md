@@ -3,3 +3,6 @@
 # Everthing connected to the internet has and address called (IP Address)
 # Anywhere where two or more parts of the internet intersect there is an equipment called router, which direct our packets to the internet which help us to get more closer to the internet.
 # When an information is sent to the server our computer's IP address will be added to the routers IP address and it will reach the destination, then when the information comes back from the internet the IP address is unfolded to the IP addresses it held when it came first.
+# HTTP (Hyper text transfer protocol) s(secure.)
+# Three main methods are attached to HTTPS, GET (requests data), POST (submit data to the server), (PUT) update data which is already on the server, and DELETE(deletes our data.)
+# 200 - means ok, 201 - ok created, 301 - moved to new URL, 304- means not modified, 400 - Bad request, 401 - unauthorized, 404 - not found and 500 internal server error
