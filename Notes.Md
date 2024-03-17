@@ -6,3 +6,12 @@
 # HTTP (Hyper text transfer protocol) s(secure.)
 # Three main methods are attached to HTTPS, GET (requests data), POST (submit data to the server), (PUT) update data which is already on the server, and DELETE(deletes our data.)
 # 200 - means ok, 201 - ok created, 301 - moved to new URL, 304- means not modified, 400 - Bad request, 401 - unauthorized, 404 - not found and 500 internal server error
+# GIT is a version control system (VCS) for tracking changes in computer files.
+# You can snapshot your code history by making a commit.
+# git init - initialize local git repository
+# git add <file> add files to index
+# git status check status of working tree
+# git commit commit changes in index
+# git pull pull latest version from the remote repository
+# git clone clone repository into your local files.
+# NPM (node package manager): it is pre installed with Node.js
