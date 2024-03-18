@@ -14,4 +14,7 @@
 # git commit commit changes in index
 # git pull pull latest version from the remote repository
 # git clone clone repository into your local files.
-# NPM (node package manager): it is pre installed with Node.js
+# NPM (node package manager): it is pre installed with Node. 
+# Package.js manifest file with app info, lists dependencies (name and version), specify if versions should be updated, create Npm scripts, and is easily created with "npm init"
+
+# You can use JavaScript for different things such as for a browser, interactive user interface using javascript based frameworks like React, it can also be used in mobile development and desktop application development.
